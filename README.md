@@ -1,6 +1,6 @@
 # 👩‍💻 Iasmin Alves
 
-## Analista de Dados | Cientista de Dados em Formação
+## Analista de Dados 
 
 Me chamo **Iasmin**, tenho 21 anos e sou formada em **Análise e Desenvolvimento de Sistemas**.  
 Atualmente atuo na área **administrativa**, mas meu foco profissional e acadêmico está voltado para o universo da **Análise e Ciência de Dados**.  
